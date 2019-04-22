@@ -14,6 +14,7 @@ const NavigationBar = () => (
           <Nav.Link href="/team">MEET THE TEAM</Nav.Link>
           <Nav.Link href="/about">SESSIONS</Nav.Link>
           <Nav.Link href="/alumni">ALUMNI</Nav.Link>
+          <Nav.Link href="/about">ABOUT US</Nav.Link>
           <Nav.Link href="/faqs">FAQs</Nav.Link>
         </Nav>
       </Navbar.Collapse>
